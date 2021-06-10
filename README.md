@@ -7,6 +7,6 @@ Linha de Pesquisa:	MÉTODOS COMPUTACIONAIS EM POLÍTICAS PÚBLICAS <br>
 Orientador:	RICARDO CORDEIRO CORREA <br>
 
 # Qualificação
-[Arquivo da qualificação](dissertação/)
+[Introdução](1_intro.html)
 
 
